@@ -1,6 +1,6 @@
 <!-- 🎬 HEADER GIF: Welcome with Impact -->
 <p align="center">
-  <img src="https://sl.bing.net/blrrhJSx0YS" width="70%" alt="Welcome GIF" />
+  <img src="https://sl.bing.net/blrrhJSx0YS.gif" width="70%" alt="Welcome GIF" />
 </p>
 
 <!-- 📝 Typing Header Animation -->
