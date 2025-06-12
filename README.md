@@ -5,8 +5,9 @@
 
 <!-- 📝 Typing Header Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Shreyas+KP+👨‍💻;Frontend+Dev+%7C+Flutterist+%7C+Dream+Machine;Fueled+by+Curiosity+%26+Code+🔥" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Shreyas+KP+👨‍💻;Frontend+Dev+%7C+Flutterist+%7C+Dream+Machine;Fueled+by+Curiosity+%26+Code+🔥" alt="Typing Intro">
 </h1>
+
 
 <h3 align="center">🔥 Passionate Dev | 🎯 Focused Learner | 💡 Startup Dreamer</h3>
 
