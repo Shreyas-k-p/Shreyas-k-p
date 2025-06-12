@@ -1,39 +1,90 @@
-<h1 align="center">Hi 👋, I'm Shreyas KP</h1>
-<h3 align="center">A passionate frontend developer from India who codes with heart and dreams with fire.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-k-p&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-k-p" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas-k-p" alt="shreyas-k-p" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [AI-Based App Usage Tracker (Android)](Tracks screentime & sends alerts. Kotlin + MVVM.)
-
-- 🌱 I’m currently learning **React and Firebase. Also diving deep into GSAP for animations and a bit of Three.js magic on the side.**
-
-- 👯 I’m looking to collaborate on **Student Productivity Tool**
-
-- 🤝 I’m looking for help with **Open Source Collab**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shreyas-k-p](https://github.com/Shreyas-k-p)
-
-- 💬 Ask me about **flutter, pcb designing or how I once saved two kittens from a well and danced on a college bus after 15 years. Yeah, I’m full of plot twists.**
-
-- 📫 How to reach me **shreyas5710kp@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d_Ah_ju5jPx2MtTtyKsrRP3dVrGa2YvP/view?usp=drivesdk](https://drive.google.com/file/d/1d_Ah_ju5jPx2MtTtyKsrRP3dVrGa2YvP/view?usp=drivesdk)
-
-- ⚡ Fun fact **I once saved two kittens from a 30ft well, lied for earrings, and danced after 15 years — all in one lifetime. Beat that.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- 🎬 HEADER GIF: Welcome with Impact -->
+<p align="center">
+  <img src="https://sl.bing.net/blrrhJSx0YS" width="70%" alt="Welcome GIF" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- 📝 Typing Header Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Shreyas+KP+👨‍💻;Frontend+Dev+%7C+Flutterist+%7C+Dream+Machine;Fueled+by+Curiosity+%26+Code+🔥" alt="Typing Intro" />
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas-k-p&show_icons=true&locale=en&layout=compact" alt="shreyas-k-p" /></p>
+<h3 align="center">🔥 Passionate Dev | 🎯 Focused Learner | 💡 Startup Dreamer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas-k-p&show_icons=true&locale=en" alt="shreyas-k-p" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-k-p&" alt="shreyas-k-p" /></p>
+### 🧬 About Me
+
+```yaml
+Name: Shreyas KP
+Code For: Impact, Ideas, and a Little Bit of Insanity
+Known For: Saving kittens 🐱, Hustling hard 💻, and Dancing on a bus after 15 years 🕺
+Tech Stack: Kotlin, Flutter, React, Firebase, Python, Arduino
+````
+
+* 🔭 Currently building: **AI-Based Android App Usage Tracker**
+* 🌱 Learning: **GSAP, Three.js, Firebase Magic, React Transitions**
+* 👯 Open to collaborate: **Student Productivity Tools, Open Source Collabs**
+* 💬 Ask me about:
+  → Flutter, PCB Design, or Life Lessons from a 30-ft Well Rescue
+* 📫 Reach me at: **[shreyas5710kp@gmail.com](mailto:shreyas5710kp@gmail.com)**
+* 📄 [Here’s my Resume](https://drive.google.com/file/d/1d_Ah_ju5jPx2MtTtyKsrRP3dVrGa2YvP/view?usp=drivesdk)
+* ⚡ Fun Fact:
+
+  > Lied for earrings. Rescued kittens. Danced after 15 years.
+  > Plot twist? I’m just getting started.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,flutter,dart,kotlin,react,firebase,python,linux,git,html,mysql,figma,photoshop" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-k-p&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-k-p&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-k-p&theme=radical" height="160" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-k-p&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:shreyas5710kp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shreyas-k-p">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### ✨ Signature Line
+
+> “I’m not here to compete.
+> I’m here to outgrow.”
+
+Let’s build something timeless 🚀
+
+```
