@@ -1,91 +1,24 @@
-<!-- 🎬 HEADER GIF: Welcome with Impact -->
-<p align="center">
-  <img src="https://sl.bing.net/blrrhJSx0YS.gif" width="70%" alt="Welcome GIF" />
-</p>
-
-<!-- 📝 Typing Header Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Shreyas+KP+👨‍💻;Frontend+Dev+%7C+Flutterist+%7C+Dream+Machine;Fueled+by+Curiosity+%26+Code+🔥" alt="Typing Intro">
-</h1>
+# 💫 About Me:
+Let me explore your portfolio codebase to extract your "About Me" information!<br><br>Listed directory protfolio<br>Listed directory src<br>Viewed App.jsx:1-800<br>Viewed App.jsx:800-1200<br>Viewed App.jsx:1200-1433<br><br>I've thoroughly read your entire portfolio. Now let me generate a comprehensive "About Me" profile for you to give to AI for GitHub README generation.<br><br>Edited about_me_profile.md<br><br>Here's your complete **About Me** profile extracted from your portfolio! 🎉<br><br>You can copy the artifact content above and paste it into any AI (ChatGPT, Gemini, Claude, etc.) with a prompt like:<br><br>> *"Based on this About Me profile, generate a professional and visually rich GitHub README.md for my profile. Include badges, stats, tech stack icons, and sections for Projects, Experience, Certifications, and Contact."*<br><br>### What I extracted from your portfolio:<br><br>| Section | Details |<br>|---|---|<br>| 🎓 Education | B.Tech ECE @ SNMIMT (2023–27), KTU |<br>| 💼 Leadership | 6 roles — IIC Lead, IPR Lead, TinkerHub Co-Lead, Asst CTO, KKEM Ambassador |<br>| 🛠️ Skills | Prompt Eng, Embedded Systems (Arduino/ESP32), Python, C, PCB Design, Git |<br>| 🧪 Projects | Scan4Serve (SaaS), Skynetic (Robotics), Auto-SMPS (Hardware), Retro (Game) |<br>| 🏆 Achievements | IIT Bombay NEC Rank 108, InnoElectra 2nd Prize, KSUM Recognition, PALS Finalist |<br>| 📜 Certifications | 20+ including IBM AI Developer Professional Certificate, NASSCOM Level 4, AICTE |<br>| 📬 Contact | Thrissur, Kerala · +91 80755 19025 · LinkedIn & GitHub |<br><br>**Pro tip:** You can also ask the AI to add GitHub stats cards using `github-readme-stats` shields and tech badge icons from `shields.io` or `skill-icons` to make it look extra polished! 🚀
 
 
-<h3 align="center">🔥 Passionate Dev | 🎯 Focused Learner | 💡 Startup Dreamer</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.hreyas_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ shreyas-k-p-5016a432b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shreyas Kp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyas5710kp@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shreyas-k-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Shreyas-k-p&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyas-k-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🧬 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```yaml
-Name: Shreyas KP
-Code For: Impact, Ideas, and a Little Bit of Insanity
-Known For: Saving kittens 🐱, Hustling hard 💻, and Dancing on a bus after 15 years 🕺
-Tech Stack: Kotlin, Flutter, React, Firebase, Python, Arduino
-````
-
-* 🔭 Currently building: **AI-Based Android App Usage Tracker**
-* 🌱 Learning: **GSAP, Three.js, Firebase Magic, React Transitions**
-* 👯 Open to collaborate: **Student Productivity Tools, Open Source Collabs**
-* 💬 Ask me about:
-  → Flutter, PCB Design, or Life Lessons from a 30-ft Well Rescue
-* 📫 Reach me at: **[shreyas5710kp@gmail.com](mailto:shreyas5710kp@gmail.com)**
-* 📄 [Here’s my Resume](https://drive.google.com/file/d/1d_Ah_ju5jPx2MtTtyKsrRP3dVrGa2YvP/view?usp=drivesdk)
-* ⚡ Fun Fact:
-
-  > Lied for earrings. Rescued kittens. Danced after 15 years.
-  > Plot twist? I’m just getting started.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shreyas-k-p&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Shreyas-k-p&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,flutter,dart,kotlin,react,firebase,python,linux,git,html,mysql,figma,photoshop" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-k-p&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-k-p&layout=compact&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-k-p&theme=radical" height="160" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-k-p&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:shreyas5710kp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shreyas-k-p">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-### ✨ Signature Line
-
-> “I’m not here to compete.
-> I’m here to outgrow.”
-
-Let’s build something timeless 🚀
-
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
